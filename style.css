@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to right, #b2dfdb, #e0f2f1);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
+
+h1 {
+  color: #00695c;
+}
+
+canvas {
+  background-color: #ffffff;
+  border: 3px solid #00796b;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+#score {
+  font-size: 20px;
+  color: #004d40;
+  margin-top: 10px;
+}
